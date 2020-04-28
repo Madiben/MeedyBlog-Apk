@@ -1,0 +1,2 @@
+rootProject.name='Meedy Blog'
+include ':app'
